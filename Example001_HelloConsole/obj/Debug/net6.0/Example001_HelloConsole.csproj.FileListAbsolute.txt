@@ -1,0 +1,15 @@
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\Lecture\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.exe
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\Lecture\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.deps.json
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\Lecture\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.runtimeconfig.json
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\Lecture\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.dll
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\Lecture\Examples\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.pdb
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\Lecture\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\Lecture\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\Lecture\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\Lecture\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfo.cs
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\Lecture\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\Lecture\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.dll
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\Lecture\Examples\Example001_HelloConsole\obj\Debug\net6.0\refint\Example001_HelloConsole.dll
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\Lecture\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.pdb
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\Lecture\Examples\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.genruntimeconfig.cache
+C:\PYTHON_DATA_Analys_learning\GeekBrain\Progr_Lang\Lecture\Examples\Example001_HelloConsole\obj\Debug\net6.0\ref\Example001_HelloConsole.dll
