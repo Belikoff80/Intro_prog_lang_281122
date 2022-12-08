@@ -10,14 +10,14 @@ int yc = 30;
 Console.SetCursorPosition(xa, ya);
 Console.WriteLine("+");
 Console.SetCursorPosition(xb, yb);
-Console.WriteLine("+");
+Console.WriteLine("<>");
 Console.SetCursorPosition(xc, yc);
-Console.WriteLine("+");
+Console.WriteLine("W");
 
 int x = xa;
 int y = ya;
 int count = 10;
-while (count < 10000)
+while (count < 100000)
 {
     int what = new Random().Next(0, 3);
     if (what == 0)
@@ -36,7 +36,7 @@ while (count < 10000)
         y = (y + yc) / 2;
     }
     Console.SetCursorPosition(x, y);
-    Console.WriteLine("+");
+    Console.WriteLine("Fuck");
     count++;
 
 }
